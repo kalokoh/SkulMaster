@@ -29,7 +29,7 @@ Note: The local database (SkulMaster.db) is safely generated in the hidden Windo
 For Developers
 1.	Clone the repository to your local machine:
 Bash
-git clone https://github.com/yourusername/SkulMaster.git
+git clone (https://github.com/kalokoh/SkulMaster.git)
 2.	Open SkulMaster.sln in Visual Studio.
 3.	Ensure the following NuGet packages are restored:
 o	Microsoft.Data.Sqlite
